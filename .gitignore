@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+.env.local
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Generated fixture for DATA_SOURCE=mock. Rebuild with `npm run seed`; the
+# generator is source, the generated board data is not.
+lib/data/mock-boards.json
