@@ -12,3 +12,6 @@ next-env.d.ts
 # Generated fixture for DATA_SOURCE=mock. Rebuild with `npm run seed`; the
 # generator is source, the generated board data is not.
 lib/data/mock-boards.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
